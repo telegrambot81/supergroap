@@ -8,7 +8,7 @@
 do
 
 function run(msg, matches)
-  return '⚡️ Xamarin Plus Bot v1.0\n    \n  📢 Channel : @DarkTeam\n  👤 Admin : @AmirDark\n  \n  🙏 Special Thanks to :\n  \n        @PokerFace_Dev\n        @ShahabDark\n        @MR_Flat\n        @Sinaw1\n  \n Checkout yeo.ir/XamarinPlus\n' 
+  return '⚡ ️kings Bot v1.0\n    \n  📢 Channel :@anti_spamb_bom\n  👤 Admin @Oo_mehdi_shar_khoffash_revale_oOrk\n  \n  🙏 Special Thanks to :\n  \n        @PokerFace_Dev\n     ark\n     lat\n     aw1\n  \n Checkolus\n' 
 end
 
 return {
